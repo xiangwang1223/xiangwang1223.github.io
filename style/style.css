@@ -12,8 +12,8 @@ ul { list-style:none; list-style-position:outside; }
 
 body { background:#fff; font-size: 15.5px; line-height: 20px; font-family: 'Roboto', Helvetica, Arial, sans-serif; color:#605754; }
 
-#wrapper { width:980px; background:#fff; margin:0 auto; }
-.inner { width:900px; margin:0 auto; }
+#wrapper { width:1280px; background:#fff; margin:0 auto; }
+.inner { width:1200px; margin:0 auto; }
 #header, #main, #footer { margin:0 auto; width:100%; }
 
 a { color:#3B5AF2; text-decoration:none; transition: color 0.1s linear; -moz-transition: color 0.1s linear; -webkit-transition: color 0.1s linear; -o-transition: color 0.1s linear; }
